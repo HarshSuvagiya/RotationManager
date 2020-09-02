@@ -1,0 +1,2 @@
+rootProject.name='RotationManager'
+include ':app'
