@@ -4,6 +4,7 @@ An smart manager that helps you to keep your device orientation according to you
 
 ## Screenshots
 <img src="sc1.png" width="250">&nbsp;<img src="sc2.png" width="250">
+
 <img src="sc3.png" width="250">&nbsp;<img src="sc4.png" width="250">
 
 ## Social Media
